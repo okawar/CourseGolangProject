@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd58bf95-e67b-464d-a9c6-733083e2293a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/entity/Order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang_pr.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/getItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/registration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/pages/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/pages/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/pages/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/Auth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/Order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service_test/User_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/NewStorage.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/OrderSQL.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/golangpr.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/Item.go" beforeDir="false" afterPath="$PROJECT_DIR$/entity/Item.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/Item_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/entity_test/Item_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/User.go" beforeDir="false" afterPath="$PROJECT_DIR$/entity/User.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/User_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/entity_test/User_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang_pr.yml" beforeDir="false" afterPath="$PROJECT_DIR$/golang_pr.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle.go" beforeDir="false" afterPath="$PROJECT_DIR$/handle.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/carts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/formData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/pages/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/pages/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/pages/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/pages/start.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/Context.go" beforeDir="false" afterPath="$PROJECT_DIR$/service/Context.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/Item.go" beforeDir="false" afterPath="$PROJECT_DIR$/service/Item.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/Item_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/service_test/Item_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/User.go" beforeDir="false" afterPath="$PROJECT_DIR$/service/User.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/User_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/ItemSQL.go" beforeDir="false" afterPath="$PROJECT_DIR$/sql/ItemSQL.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/Storage.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/StorageSQL.go" beforeDir="false" afterPath="$PROJECT_DIR$/sql/StorageSQL.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/StorageSQL_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/sql_test/StorageSQL_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/UserSQL.go" beforeDir="false" afterPath="$PROJECT_DIR$/sql/UserSQL.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../../Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2gvMkWEdOI3j1hFeTVbWVlQJaMw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "C:/Users/Oka",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

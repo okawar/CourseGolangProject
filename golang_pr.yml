@@ -1,0 +1,69 @@
+server:
+  host: 127.0.0.1
+  port: 8090
+  timeout: 10
+api:
+  UserAuth:
+    method: POST
+    url: /api/auth
+    needauth: false
+  UserCreate:
+    method: POST
+    url: /api/user/new
+    needauth: false
+  UserUpdate:
+    method: PUT
+    url: /api/user/update
+    needauth: true
+  UserDelete:
+    method: DELETE
+    url: /api/user/delete
+    needauth: true
+  Users:
+    method: GET
+    url: /api/user/all
+    needauth: true
+  User:
+    method: GET
+    url: /api/user/get
+    needauth: true
+  ItemCreate:
+    method: POST
+    url: /api/item/new
+    needauth: true
+  ItemUpdate:
+    method: PUT
+    url: /api/item/update
+    needauth: true
+  ItemDelete:
+    method: DELETE
+    url: /api/item/delete
+    needauth: true
+  Items:
+    method: GET
+    url: /api/item/all
+    needauth: true
+  Item:
+    method: GET
+    url: /api/item/get
+    needauth: true
+  OrderCreate:
+    method: POST
+    url: /api/order/new
+    needauth: true
+  OrderUpdate:
+    method: PUT
+    url: /api/order/update
+    needauth: true
+  OrderDelete:
+    method: DELETE
+    url: /api/order/delete
+    needauth: true
+  Orders:
+    method: GET
+    url: /api/order/all
+    needauth: true
+  Order:
+    method: GET
+    url: /api/order/get
+    needauth: true
